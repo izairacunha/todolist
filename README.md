@@ -2,8 +2,7 @@
 > Projeto realizado como exercício para a aula de javascript da Reprograma.
 
 ### :memo: Funcionalidades: 
-- poder adicionar tarefas
-- poder remover tarefas
+- poder adicionar e remover tarefas
 - poder marcar tarefas como feitas
 - ao adicionar tarefa, o campo de input deve ser limpo.
 - não pode adicionar tarefa vazia
