@@ -1,7 +1,7 @@
 # :bookmark_tabs: To Do List
 > Projeto realizado como exercício para a aula de javascript da Reprograma.
 
-![](./images/demo.gif)
+![](./images/demo2.gif)
 
 ### :memo: Funcionalidades: 
 - poder adicionar e remover tarefas
