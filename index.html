@@ -14,24 +14,26 @@
             <p id="error"></p>
             <input type="text" name="task" class="input-task" wrap="hard" placeholder="Digite uma nova tarefa">
              <button type="submit" class="add" id="primary-color">+ Adicionar</button>
+                    
         </section>    
         <section>
 
-            <div class="container-task">
-                <h2>TO DO LIST</h2>
+            
 
+            <div class="container-task">
+                
+                <h2>TO DO LIST</h2>
                 <div id="task-container"  ondragenter="onDragEnter(event)" ondrop="onDrop(event)" ondragover="onDragOver(event)" ondragleave="onDragLeave(event)">
                 
                     <ul id="list" ></ul>
                                                
                 </div>
 
-                <div class="btn">
-                    <button id="green" onclick="checkAll()">Marcar todos</button>
-                    <button id="red" onclick="removeAll()" >Deletar todos</button>
-                </div>
             </div>
-            
+            <div class="btn">
+                <button id="green" onclick="checkAll()">Marcar todos</button>
+                <button id="red" onclick="removeAll()" >Deletar todos</button>
+            </div>
 
             
         </section>

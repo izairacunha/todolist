@@ -46,7 +46,7 @@ function checkAll(){
 
 //Remove todos os itens
 function removeAll(){
-    all.remove()
+    lista.remove()
 }
 
 

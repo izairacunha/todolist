@@ -30,7 +30,6 @@ h2{
     background-color:#b590ca ;
     padding: 30px 0;
     border-radius: 0 20px 20px;
-    
 }
 
 #task-container{
@@ -107,7 +106,7 @@ span:hover{
 .btn{
     display: flex;
     justify-content: space-evenly;
-    margin: 0 4em 0 4em;
+    margin: 2em 4em 0 4em;
 }
 
 #img{
@@ -154,10 +153,3 @@ span:hover{
 }
 
 
-
-/* DRAG AND DROP*/
-#movec{
-    background-color: #E84A5F;
-    padding: 20px;
-    cursor: move;
-}
